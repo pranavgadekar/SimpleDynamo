@@ -1,7 +1,5 @@
 # SimpleDynamo
 
-<h1>SimpleDynamo</h1>
-
 Replicated Key-Value Storage
 
 This application is a very simplified version of Dynamo. There are three main pieces that have been implemented:
